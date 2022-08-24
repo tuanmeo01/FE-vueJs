@@ -1,7 +1,7 @@
 <template>
   <div ref="mapRef" class="line-map" />
 </template>
-
+<!-- tseet cômit -->
 <script setup lang="ts">
   import { ref, toRef, computed, onMounted, onBeforeUnmount, watch, shallowRef, onUpdated } from 'vue'
   import * as am5 from '@amcharts/amcharts5'
